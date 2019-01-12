@@ -1,0 +1,2 @@
+class UaersController < ApplicationController
+end
