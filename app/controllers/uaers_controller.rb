@@ -1,2 +1,0 @@
-class UaersController < ApplicationController
-end
